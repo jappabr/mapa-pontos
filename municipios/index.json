@@ -1,14 +1,14 @@
 {
-  "atualizado_em": "2026-11-10T13:53:09-03:00",
+  "atualizado_em": "2026-11-17T08:47:46-03:00",
   "base_raw": "https://raw.githubusercontent.com/jappabr/mapa-pontos/main/",
   "municipios": [
     {
       "id": 2633,
       "nome": "Cotia",
       "arquivo": "municipios/2633-cotia.geojson",
-      "total_pontos": 38253,
-      "total_lampadas": 40706,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 38261,
+      "total_lampadas": 40714,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1509,
@@ -16,15 +16,15 @@
       "arquivo": "municipios/1509-fernandes-pinheiro.geojson",
       "total_pontos": 730,
       "total_lampadas": 892,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 610,
       "nome": "Francisco Beltrão",
       "arquivo": "municipios/610-francisco-beltrao.geojson",
-      "total_pontos": 13636,
-      "total_lampadas": 15310,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 13649,
+      "total_lampadas": 15322,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1058,
@@ -32,7 +32,7 @@
       "arquivo": "municipios/1058-guarapuava.geojson",
       "total_pontos": 25855,
       "total_lampadas": 29421,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 2596,
@@ -40,7 +40,7 @@
       "arquivo": "municipios/2596-hortolandia.geojson",
       "total_pontos": 23538,
       "total_lampadas": 26415,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1279,
@@ -48,7 +48,7 @@
       "arquivo": "municipios/1279-inacio-martins.geojson",
       "total_pontos": 958,
       "total_lampadas": 1031,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1369,
@@ -56,7 +56,7 @@
       "arquivo": "municipios/1369-irati.geojson",
       "total_pontos": 10431,
       "total_lampadas": 11658,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 2667,
@@ -64,15 +64,15 @@
       "arquivo": "municipios/2667-itapecerica-da-serra.geojson",
       "total_pontos": 19901,
       "total_lampadas": 21253,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 2683,
       "nome": "Itatiba",
       "arquivo": "municipios/2683-itatiba.geojson",
-      "total_pontos": 18931,
-      "total_lampadas": 19815,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 18950,
+      "total_lampadas": 19834,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 5275,
@@ -80,15 +80,15 @@
       "arquivo": "municipios/5275-laranjeiras.geojson",
       "total_pontos": 2713,
       "total_lampadas": 3639,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1393,
       "nome": "Mallet",
       "arquivo": "municipios/1393-mallet.geojson",
-      "total_pontos": 2157,
-      "total_lampadas": 2319,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 2154,
+      "total_lampadas": 2316,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 2575,
@@ -96,23 +96,23 @@
       "arquivo": "municipios/2575-nova-odessa.geojson",
       "total_pontos": 11379,
       "total_lampadas": 12641,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 473,
       "nome": "Palotina",
       "arquivo": "municipios/473-palotina.geojson",
-      "total_pontos": 6741,
-      "total_lampadas": 7854,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 6751,
+      "total_lampadas": 7864,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1463,
       "nome": "Rebouças",
       "arquivo": "municipios/1463-reboucas.geojson",
-      "total_pontos": 1631,
-      "total_lampadas": 1757,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 1637,
+      "total_lampadas": 1763,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1325,
@@ -120,7 +120,7 @@
       "arquivo": "municipios/1325-sapucaia-do-sul.geojson",
       "total_pontos": 11911,
       "total_lampadas": 12894,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 2774,
@@ -128,7 +128,7 @@
       "arquivo": "municipios/2774-socorro.geojson",
       "total_pontos": 6231,
       "total_lampadas": 6785,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 2573,
@@ -136,7 +136,7 @@
       "arquivo": "municipios/2573-sumare.geojson",
       "total_pontos": 24964,
       "total_lampadas": 27317,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 1524,
@@ -144,15 +144,15 @@
       "arquivo": "municipios/1524-teixeira-soares.geojson",
       "total_pontos": 1331,
       "total_lampadas": 1470,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     },
     {
       "id": 455,
       "nome": "Toledo",
       "arquivo": "municipios/455-toledo.geojson",
-      "total_pontos": 24325,
-      "total_lampadas": 28495,
-      "atualizado_em": "2026-11-10T13:53:09-03:00"
+      "total_pontos": 24330,
+      "total_lampadas": 28500,
+      "atualizado_em": "2026-11-17T08:47:46-03:00"
     }
   ]
 }
